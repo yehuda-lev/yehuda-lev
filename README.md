@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF72F&center=true&vCenter=true&lines=Hello%2C+My+Name+Is+Yehuda!)](https://git.io/typing-svg)
+
+
+[![Stats](https://github-readme-stats-sigma-lyart.vercel.app/api?username=yehuda-lev&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/yehuda-lev#gh-dark-mode-only)
+[![Top langs](https://github-readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=yehuda-lev&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/yehuda-lev#gh-dark-mode-only)
+[![Stats](https://github-readme-stats-sigma-lyart.vercel.app/api?username=yehuda-lev&show_icons=true&count_private=true&theme=light&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/yehuda-lev#gh-light-mode-only)
+[![Top langs](https://github-readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=yehuda-lev&layout=compact&hide=CSS&theme=light&show_icons=true&count_private=true&card_width=445)](https://github.com/yehuda-lev#gh-light-mode-only)
+
+
 <!--
 **yehuda-lev/yehuda-lev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
